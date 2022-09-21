@@ -14,3 +14,4 @@ I am broadly interested in how plants sense and respond to their environment. I 
 
 
 ![Mia contemplates life while in a prairie remnant](img/masSweater.jpg)
+*Mia contemplates life while in a prairie remnant*
