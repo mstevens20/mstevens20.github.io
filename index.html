@@ -1,1 +1,27 @@
-"hello world"
+---
+layout: default
+---
+
+<div class="home">
+
+ <p>
+  <img src="{{ 'http://mstevens20.github.io/img/masGps.jpg' | asset_path }}" height="200px" align="right" HSPACE = "50"/>
+My name is Mia Stevens. I'm currently a lab manager at Michigan State University.
+</p>
+
+<p>
+You can find me on
+<a href="https://twitter.com/Bumbling_along">Twitter</a> and
+<a href="https://github.com/mstevens20">Github</a>, 
+or email me at mstevens.2898 at gmail.com. 
+</p>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
