@@ -8,7 +8,7 @@ I am currently a lab manager in the [Josephs' lab](https://josephslab.github.io/
 
 
 
-![](img/capsella.jpg)  |  ![](img/echinacea.jpg) |![](img/coralBean.jpg) 
+![](img/capsella.jpg)  |  ![](img/echinacea.jpg) |![](img/coralBean.jpeg) 
 :-------------------------:|:-------------------------:|:-------------------------:
 *Capsella bursa-pastoris*   |  *Echinacea angustifolia* |  *Erythrina flabelliformis*
 
