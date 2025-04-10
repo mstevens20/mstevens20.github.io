@@ -6,7 +6,7 @@ permalink: /about/
 
 <iframe width="300" height="154" src="https://w2.countingdownto.com/6216692" frameborder="0"></iframe>
 
-I am currently a lab manager in the [Josephs' lab](https://josephslab.github.io/) at Michigan State University studying *Capsella bursa-pastoris*. Before then I was with the [Echinacea Project](https://echinaceaproject.org/) studying habitat fragmentation of the tallgrass prarie. 
+Before starting grad school I was a lab manager in the [Josephs' lab](https://josephslab.github.io/) at Michigan State University studying *Capsella bursa-pastoris*. Before then I was with the [Echinacea Project](https://echinaceaproject.org/) studying habitat fragmentation of the tallgrass prarie. 
 
 
 
